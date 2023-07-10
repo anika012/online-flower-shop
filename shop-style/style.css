@@ -1,3 +1,52 @@
 body {
     font-family: 'Lato', sans-serif;
 }
+
+/*header section style*/
+
+.header {
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner-title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    margin: 0px 200px;
+    max-width: 708px;
+}
+
+.head-flower {
+    max-width: 600px;
+    margin-top: 30px;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0px 200px;
+    max-width: 634px;
+    margin-top: 32px;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    border: 0px;
+    padding: 20px 40px;
+    margin: 32px 200px;
+    
+}
+
+/*main section style*/
