@@ -30,7 +30,8 @@ body {
 .banner-description {
     color: rgba(39, 39, 39, 0.60);
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 200px;
+    line-height: 30px;
     margin: 0px 200px;
     max-width: 634px;
     margin-top: 32px;
@@ -46,7 +47,41 @@ body {
     border: 0px;
     padding: 20px 40px;
     margin: 32px 200px;
-    
+
 }
 
 /*main section style*/
+
+.sale-deal {
+    background: rgba(229, 84, 115, 0.05);
+    margin: 100px 0px;
+}
+
+.deal-container {
+    display: flex;
+    align-items: center;
+    padding: 100px 300px;
+    margin-left: 400px;
+
+}
+
+.deal-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.text-primary {
+    color: #E55473;
+}
+
+.deal-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    max-width: 594px;
+}
+.flower-deal {
+    margin-left: 150px;
+}
