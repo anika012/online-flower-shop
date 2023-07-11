@@ -106,7 +106,11 @@ body {
 
 .img-container {
     margin: 48px 300px;
-    margin-left: 600px;
+    margin-left: 500px;
+}
+.position {
+    padding-left: 30px;
 }
 
 /*section 3 style*/
+
